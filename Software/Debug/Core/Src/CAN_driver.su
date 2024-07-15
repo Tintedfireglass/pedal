@@ -1,0 +1,8 @@
+../Core/Src/CAN_driver.c:19:9:canNotification	24	static
+../Core/Src/CAN_driver.c:32:6:canTransmit	104	static
+../Core/Src/CAN_driver.c:68:6:HAL_CAN_RxFifo0MsgPendingCallback	104	static
+../Core/Src/CAN_driver.c:101:6:HAL_CAN_RxFifo1MsgPendingCallback	104	static
+../Core/Src/CAN_driver.c:130:10:getPv	24	static
+../Core/Src/CAN_driver.c:140:10:getPower	24	static
+../Core/Src/CAN_driver.c:150:10:getAverageTemp	24	static
+../Core/Src/CAN_driver.c:160:6:processCanMsg	160	static
